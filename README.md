@@ -14,4 +14,4 @@ pythonでopenglを使うテスト
 ```$sudo apt install libglu1-mesa-dev mesa-common-dev freeglut3-dev```
 
 # 使い方
-'''pythom3 demo.py'''
+```pythom3 demo.py```
