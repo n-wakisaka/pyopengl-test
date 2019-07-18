@@ -18,3 +18,6 @@ pythonでopenglを使うテスト
 
 # 参考
 https://tokoik.github.io/opengl/libglut.html
+
+https://showa-yojyo.github.io/notebook/python-pyopengl/transform.html
+* glGetDoublevの仕様について
