@@ -15,3 +15,6 @@ pythonでopenglを使うテスト
 
 # 使い方
 ```pythom3 demo.py```
+
+# 参考
+https://tokoik.github.io/opengl/libglut.html
