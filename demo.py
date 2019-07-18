@@ -32,6 +32,8 @@ def cameraSet(x,y,z,pan,tilt,roll):
     glRotated(-pan,  0.0, 0.0, 1.0)
     glTranslated(-x, -y, -z)
     # glGetDoublev(GL_MODELVIEW_MATRIX, camera_info)
+    # todo:
+    # オリジナルのopenglの関数と引数，戻り値とかが違うらしい
     cam = glGetDoublev(GL_MODELVIEW_MATRIX)
     print(camera_info)
     print(cam)
